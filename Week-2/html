@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Famous Places</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="lebesgue">
+                <h2>Toronto</h2>
+                <p>
+                    Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower. 
+					Toronto also has many green spaces, from the orderly oval of Queen’s Park to 400-acre High Park and its trails, sports facilities and zoo.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="fubini">
+                <h2>Dusseldorf</h2>
+                <p>
+                    Düsseldorf is a city in western Germany known for its fashion industry and art scene. 
+					It's divided by the Rhine River, with its Altstadt (Old Town) on the east bank and modern commercial areas to the west. 
+					In the Altstadt, St. Lambertus Church and Schlossturm (Castle Tower) both date to the 13th century. Streets such as Königsallee and Schadowstrasse are lined with boutique shops.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="luzin">
+                <h2>Amsterdam</h2>
+                <p>
+                    Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. 
+					Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. 
+					Cycling is key to the city’s character, and there are numerous bike paths. Ik reis volgend jaar juli, als je wilt komen stuur me dan een sms, 
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
